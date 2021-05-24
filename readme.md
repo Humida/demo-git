@@ -18,6 +18,9 @@ git add .
 
 git commit -m "comment"
 
+<!--  git remote -->
+
+git remote add remote-name url
 <!-- tao mot nhanh moi -->
 
 git branch -M name-branch
